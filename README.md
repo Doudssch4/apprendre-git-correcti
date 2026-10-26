@@ -7,3 +7,8 @@ CE QUE J'APPRENDS
 .modifier des fichiers
 .enregistrer des versions avec des commits
 .consulter l'historique des modiications
+## Nouvelle fonctionnalité
+
+Cette section est ajoutée pour apprendre à travailler avec les branches Git.
+
+Objectif : tester des modifications sans toucher directement à la branche principale.
